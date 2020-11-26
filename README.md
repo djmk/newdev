@@ -1,1 +1,1 @@
-this is a readme file
+This is a readme file. I used for revising my git skills
